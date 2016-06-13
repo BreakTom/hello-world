@@ -1,2 +1,2 @@
 # hello-world
-just test
+hello, i use github for manage my software.
